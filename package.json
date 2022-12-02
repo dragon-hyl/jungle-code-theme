@@ -1,0 +1,26 @@
+{
+    "name": "code-theme",
+    "displayName": "Jungle Code Theme",
+    "description": "this is a beautiful code theme.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.73.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Jungle Code Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Jungle Code-color-theme.json"
+            },
+            {
+                "label": "Jungle Code Light",
+                "uiTheme": "vs",
+                "path": "./themes/Jungle Code-light-color-theme.json"
+            }
+        ]
+    }
+}
