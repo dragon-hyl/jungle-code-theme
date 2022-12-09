@@ -1,13 +1,21 @@
-# README
-## This is the README for your extension "code-theme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Theme of hylong
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+## welcome to my vscode theme plugin !
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## You will write code more happily when you see the color of theme.
 
-**Enjoy!**
+## Tips:
+
+```json
+"editor.fontSize": 15,
+"editor.lineHeight": 30,
+"editor.fontFamily": "'JetBrains Mono','Input Mono','Operator Mono Medium','Fira Code Retina'",
+```
+
+## Jungle Code Dark
+
+![dark_01](https://cdn.staticaly.com/gh/dragon-hyl/img-repository@master/images/01-theme-img.png)
+
+![dark_02](https://cdn.staticaly.com/gh/dragon-hyl/img-repository@master/images/02-theme-img.png)
+
+**enjoy**

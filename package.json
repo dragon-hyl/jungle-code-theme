@@ -1,8 +1,15 @@
 {
-  "name": "code-theme",
+  "name": "jungle-code-theme",
   "displayName": "Jungle Code Theme",
   "description": "this is a beautiful code theme.",
+  "publisher": "hylong",
+  "license": "LICENSE",
   "version": "0.0.1",
+  "icon": "icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dragon-hyl/jungle-code-theme.git"
+  },
   "engines": {
     "vscode": "^1.73.0"
   },
