@@ -4,7 +4,7 @@
   "description": "this is a beautiful code theme.",
   "publisher": "hylong",
   "license": "LICENSE",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "icon": "icon.png",
   "repository": {
     "type": "git",
@@ -24,9 +24,19 @@
         "path": "./themes/jungle-code-dark1.json"
       },
       {
-        "label": "Jungle Code Dark-Monokai",
+        "label": "Jungle Code Monokai",
         "uiTheme": "vs-dark",
         "path": "./themes/jungle-code-dark2.json"
+      },
+      {
+        "label": "Jungle Code Ocean",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jungle-code-dark3.json"
+      },
+      {
+        "label": "Jungle Code Dracula",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jungle-code-dark4.json"
       }
     ]
   }
