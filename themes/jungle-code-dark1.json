@@ -7,6 +7,7 @@
   orange: #e7594c
   green: #9CE273 or #4CE453 #23C75A
   */
+  "type": "dark",
   "$schema": "vscode://schemas/color-theme",
   "semanticHighlighting": true,
   "colors": {
@@ -114,7 +115,7 @@
       }
     },
     {
-      "name": "",
+      "name": "Punctuation Definition Comment",
       "scope": "punctuation.definition.comment",
       "settings": {
         "foreground": "#636664",
