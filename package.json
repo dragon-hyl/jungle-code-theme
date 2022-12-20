@@ -4,7 +4,7 @@
   "description": "this is a beautiful code theme.",
   "publisher": "hylong",
   "license": "LICENSE",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "icon": "icon.png",
   "repository": {
     "type": "git",
@@ -21,7 +21,12 @@
       {
         "label": "Jungle Code Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/Jungle Code-color-theme.json"
+        "path": "./themes/jungle-code-dar1.json"
+      },
+      {
+        "label": "Jungle Code Dark-Monokai",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jungle-code-dark2.json"
       }
     ]
   }
