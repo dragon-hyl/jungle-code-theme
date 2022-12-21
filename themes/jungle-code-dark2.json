@@ -19,7 +19,7 @@
     "activityBar.foreground": "#a2a5a3",
     "activityBar.inactiveForeground": "#a2a5a374",
     "activityBarBadge.background": "#199aff",
-    "activityBarBadge.foreground": "#a2a5a3",
+    "activityBarBadge.foreground": "#ffffff",
     "badge.background": "#199aff",
     "badge.foreground": "#a2a5a3",
     "button.background": "#1780fa",
@@ -30,7 +30,7 @@
     "dropdown.border": "#777777",
     "dropdown.foreground": "#cccccc",
     "dropdown.listBackground": "#3c3d3f",
-    "editor.background": "#262627",
+    "editor.background": "#282829",
     "editor.findMatchBackground": "#2d2e30",
     "editor.findMatchHighlightBackground": "#505154",
     "editor.findRangeHighlightBackground": "#505154",
@@ -200,6 +200,14 @@
       "settings": {
         "fontStyle": "italic",
         "foreground": "#3eb6ce"
+      }
+    },
+    {
+      "name": "storage.type.function.arrow",
+      "scope":"storage.type.function.arrow",
+      "settings": {
+        "foreground": "#3eb6ce",
+        "fontStyle": ""
       }
     },
     {
