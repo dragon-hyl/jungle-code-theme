@@ -13,11 +13,11 @@
     "activityBar.foreground": "#ffffff",
     "activityBar.inactiveForeground": "#C5C8C674",
     "activityBarBadge.background": "#199aff",
-    "activityBarBadge.foreground": "#C5C8C6",
+    "activityBarBadge.foreground": "#ffffff",
     "badge.background": "#199aff",
-    "badge.foreground": "#C5C8C6",
+    "badge.foreground": "#ffffff",
     "button.background": "#1780fa",
-    "button.foreground": "#C5C8C6",
+    "button.foreground": "#ffffff",
     "button.hoverBackground": "#0a64ca",
     "descriptionForeground": "#cccccc",
     "dropdown.background": "#3c3d3f",
@@ -387,9 +387,10 @@
     },
     {
       "name": "HTML tags",
-      "scope": ["entity.name.tag"],
+      "scope": ["entity.name.tag", "support.class.component.vue"],
       "settings": {
-        "foreground": "#db6aaa"
+        "foreground": "#db6aaa",
+        "fontStyle": ""
       }
     },
     {

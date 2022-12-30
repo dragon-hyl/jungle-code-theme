@@ -23,7 +23,7 @@
     "badge.background": "#199aff",
     "badge.foreground": "#C5C8C6",
     "button.background": "#1780fa",
-    "button.foreground": "#C5C8C6",
+    "button.foreground": "#ffffff",
     "button.hoverBackground": "#0a64ca",
     "descriptionForeground": "#cccccc",
     "dropdown.background": "#3c3d3f",
@@ -173,8 +173,8 @@
       "name": "Keyword",
       "scope": "keyword",
       "settings": {
-        "foreground": "#f360a0"
-        // "fontStyle": "italic"
+        "foreground": "#f360a0",
+        "fontStyle": ""
       }
     },
     {
@@ -215,6 +215,14 @@
       "settings": {
         "foreground": "#f360a0",
         "fontStyle": ""
+      }
+    },
+    {
+      "name": "Support",
+      "scope": ["support.class.component.vue"],
+      "settings": {
+        "fontStyle": "",
+        "foreground": "#f360a0"
       }
     },
     {

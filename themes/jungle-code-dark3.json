@@ -13,9 +13,9 @@
     "activityBarBadge.background": "#199aff",
     "activityBarBadge.foreground": "#ffffff",
     "badge.background": "#199aff",
-    "badge.foreground": "#C5C8C6",
+    "badge.foreground": "#ffffff",
     "button.background": "#1780fa",
-    "button.foreground": "#C5C8C6",
+    "button.foreground": "#ffffff",
     "button.hoverBackground": "#0a64ca",
     "descriptionForeground": "#cccccc",
     "dropdown.background": "#3c3d3f",
@@ -250,7 +250,7 @@
       }
     },
     {
-      "scope": ["entity.name.tag", "entity.name.tag.js.jsx support.class.component.js.jsx"],
+      "scope": ["entity.name.tag", "entity.name.tag.js.jsx support.class.component.js.jsx", "support.class.component.vue"],
       "settings": {
         "foreground": "#ff6188"
       }
