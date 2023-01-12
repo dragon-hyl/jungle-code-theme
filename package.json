@@ -4,7 +4,7 @@
   "description": "this is a beautiful code theme.",
   "publisher": "hylong",
   "license": "LICENSE",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "icon": "icon.png",
   "repository": {
     "type": "git",
@@ -37,6 +37,11 @@
         "label": "Jungle Code Dracula",
         "uiTheme": "vs-dark",
         "path": "./themes/jungle-code-dark4.json"
+      },
+      {
+        "label": "Jungle Code Snazzy",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jungle-code-dark5.json"
       }
     ]
   }
